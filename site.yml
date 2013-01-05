@@ -1,10 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Try OpenStack
+tagline: OpenStack
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Yujie Du
+  email : duyujie.dyj@gmail.com
+  github : YujieDu
+  twitter : ben_duyujie
   feedburner : feedname
 
 navigation :

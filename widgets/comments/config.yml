@@ -1,8 +1,8 @@
 layout : disqus
 disqus :
-  short_name : jekyllbootstrap
+  short_name : trystack
 livefyre :
-  site_id : 123
+  site_id : the cloud is open
 intensedebate :
   account : 123abc
 facebook :
