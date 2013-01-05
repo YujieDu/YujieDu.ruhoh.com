@@ -3,7 +3,7 @@ title: 博客生成记
 date: '2013-01-06'
 description: 使用ruhoh搭建个人博客
 categories: How To
-tags: [Markdown]
+tags: [ruhoh, Markdown, git, github, windows ]
 ---
 
 ## 开始写博客 ##
@@ -68,7 +68,7 @@ ruhoh gem依赖于：
 
 	$gem install ruhoh 
 
-<img src="{{https://github.com/YujieDu/YujieDu.ruhoh.com/blob/master/media}}/install ruhoh.png">
+<img src="{{urls.media}}/install ruhoh.png">
 
 安装后可以输入以下命令确认是否安装成功。
 
@@ -90,8 +90,15 @@ ruhoh gem依赖于：
 
 收工！
 
+
 **Reference**
 
-    http://ruhoh.com/usage/
-    http://ruhoh.com/how-it-works/
+1. [如何确认Devkit是否安装成功](http://blog.yuaz.net/page/5)
 
+2. [Ruhoh 札记](http://dourok.info/2012/08/20/something-about-ruhoh/)
+
+3. [Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+
+4. [Octopress 笔记](http://netwjx.github.com/blog/2012/03/18/octopress-note/)
+
+5. [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)
