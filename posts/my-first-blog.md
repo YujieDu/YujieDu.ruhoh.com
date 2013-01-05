@@ -68,7 +68,7 @@ ruhoh gem依赖于：
 
 	$gem install ruhoh 
 
-<img src="{{urls.media}}/install ruhoh.png">
+<img src="{{https://github.com/YujieDu/YujieDu.ruhoh.com/blob/master/media}}/install ruhoh.png">
 
 安装后可以输入以下命令确认是否安装成功。
 
@@ -86,7 +86,7 @@ ruhoh gem依赖于：
 
 现在把以上步骤记录到我的第一篇博客里：
 
-$ ruhoh post "My first blog"
+	$ ruhoh post "My first blog"
 
 收工！
 
