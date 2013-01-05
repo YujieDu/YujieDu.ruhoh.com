@@ -1,6 +1,12 @@
 ---
 title : About Me
-description:
+description: Who am I
 ---
 
-Hello, how are you?
+Hi all, my name is Yujie Du. I like to 
+
+- Read news about OpenStack.
+
+- Write some blog to record what I have learned.
+
+- Code for fun!
