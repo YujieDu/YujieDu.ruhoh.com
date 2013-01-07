@@ -102,3 +102,5 @@ ruhoh gem依赖于：
 4. [Octopress 笔记](http://netwjx.github.com/blog/2012/03/18/octopress-note/)
 
 5. [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)
+
+6. [Github Pages](https://help.github.com/categories/20/articles)
