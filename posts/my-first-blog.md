@@ -11,7 +11,7 @@ tags: [ruhoh, Markdown, git, github, windows ]
 时间过得飞快，一转眼世界末日就过去了，一年来在[微博](http://weibo.com/u/1716287123)上结交了不少好友，所以一直在努力更新微博，很少有时间写文档。但通过学习别人的博客获益良多，并且越来越觉得有必要用博客的形式来记录下有价值的思考，并且可以“一次表达，无数次阅读”。
 
 
-第一篇就记录一下[如何使用ruhoh搭建个人博客](http://yujiedu.ruhoh.com/how-to/%E5%8D%9A%E5%AE%A2%E7%94%9F%E6%88%90%E8%AE%B0/)。
+**第一篇就记录一下[如何使用ruhoh搭建个人博客](http://yujiedu.ruhoh.com/how-to/%E5%8D%9A%E5%AE%A2%E7%94%9F%E6%88%90%E8%AE%B0/)**
 
 
 首先介绍一下如何基于开源的ruhoh搭建一个个人博客，以及为什么选择[Ruhoh静态博客](http://ruhoh.com/)。
@@ -25,11 +25,11 @@ tags: [ruhoh, Markdown, git, github, windows ]
 
 说起Ruhoh就不得不提一下Jekll，Jekyll的作者（也是GitHub的共同创始人）Tom Preston-Werner曾写过一篇博文 [Blogging like a hacker ](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)（中文翻译《 [像黑客一样写博客](http://kyle.xlau.org/posts/blogging-like-a-hacker.html) 》 by Kylexlau）。而Ruhoh和[Jekyll-Bootstrap](http://jekyllbootstrap.com/)是同一位作者。他是这么介绍Ruhoh的：
 
-ruhoh is an exercise in [sharing](http://sivers.org/sharing).
+*ruhoh is an exercise in [sharing](http://sivers.org/sharing).*
 
-ruhoh is inspired by Jekyll and designed based on everything I learned from creating [jekyllbootstrap.com](jekyllbootstrap.com)
+*ruhoh is inspired by Jekyll and designed based on everything I learned from creating [jekyllbootstrap.com](jekyllbootstrap.com).*
 
-ruhoh is the next iteration of what I think static, technical blogging can be. 
+*ruhoh is the next iteration of what I think static, technical blogging can be.*
 
 Ruhoh安装部署非常容易，在这之前你也可以先看看[Jekyll](http://jekyllrb.com/)（发音/'dʒiːk əl/，"杰克尔"）之类的博客生成系统的工作方式。
 
