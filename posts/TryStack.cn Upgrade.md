@@ -52,7 +52,7 @@ Juju安装成功配置好MAAS后，就可以配置Juju安装我们的OpenStack�
 
 完成之后，为了让Juju决定在哪里安装服务，需要找到是哪个节点安装了OpenStack Dashboard，可以通过查看 openstack-dashboard状态信息，得到URL。
 
-接下来就可以通过Juju来为[@trystack](http://weibo.com/trystack)提供动态添加计算能力、管理MySQL集群等工作了。
+接下来就可以通过Juju来为[@trystack](http://weibo.com/trystack)提供动态添加计算能力、管理MySQL集群等服务了。
 
 相关内容先整理到这，等服务器上架再来详细的安装说明。
 
